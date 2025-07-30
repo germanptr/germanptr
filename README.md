@@ -1,4 +1,4 @@
-# germanptr
+# Germán Fuentes Capella
 
 ```c
 typedef struct {
