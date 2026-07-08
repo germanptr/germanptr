@@ -10,30 +10,22 @@ typedef struct {
 german_t* germanptr;
 ```
 
-## 👋 Hi, I’m Germán: engineer, security leader and product lead.
+## Hi, I'm Germán
 
-I’m on a mission to transform how organizations approach Governance, Risk, and Compliance (GRC). My philosophy is simple:
+I've been an engineer, a CTO, and a CISO. These days I'm building Coderoom: a workspace to collaborate with agents, not delegate to them.
 
-> Security should be built like software, delivered like a product, and adopted like a platform.
+I keep running into the same problem. SDLC is supposed to help teams move fast without breaking things. Most of the time it just adds bureaucracy, and quality slips anyway. AI agents
+make it worse: they move fast, touch sensitive systems, and most teams never decided what they're allowed to do.
 
-## 🔧 What I’m Working On
-I’m building a new approach to GRC that brings automation, engineering, and product thinking to the heart of security.
+That's the itch behind Coderoom, and behind the work I do at trigosec.
 
-## 🧩 Interests
-* Security as Product
-* Security Controls-as-Code
-* GRC Automation & Risk Intelligence
-* Developer Experience (DX) for Compliance
-* Open Source
+Background in payments and regulated financial services, Luxembourg and the UK.
 
-## 🚀 My Vision
-Controls as Code. GRC Engineering. Product Transformation.
+## Right now
 
-Let’s replace checklists with systems, audits with signals, and fear with flow.
+Building Coderoom at [trigosec](https://www.trigosec.com).
 
-## 📫 Let’s connect
+## Elsewhere
+
 [LinkedIn](https://www.linkedin.com/in/germanfuentescapella/)
-
-[Blog](https://www.german.red)
-
-🌱 Always open to collaboration, contributions, and conversations about building a better future for security.
+[Bluesky](https://bsky.app/profile/germanptr.eurosky.social)
