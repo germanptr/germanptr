@@ -23,7 +23,7 @@ Background in payments and regulated financial services, Luxembourg and the UK.
 
 ## Right now
 
-Building Coderoom at [trigosec](https://www.trigosec.com).
+Building [coderoom](https://www.github.com/roomscript/coderoom).
 
 ## Elsewhere
 
