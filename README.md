@@ -3,7 +3,7 @@
 ```c
 typedef struct {
     const char* name;
-    const char* langs[];
+    const char** langs;
     bool loves_open_source;
 } german_t;
 
