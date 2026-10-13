@@ -24,8 +24,8 @@ easy privilege escalation, thin monitoring. So I want loops with limits, checks 
 
 ## Right now
 
-**coderoom**: script your agents like you script your shell. An open-source shell for coding agents, built around those limits and checks. [Why I built it](https://g18a.com/coderoom/).
+[**coderoom**](https://github.com/roomscript/coderoom): script your agents like you script your shell. An open-source shell for coding agents, built around those limits and checks. [Why I built it](https://g18a.com/coderoom/).
 
 ## Writing and talks
 
-On governance built from within engineering, the DORA Register of Information as a data problem, and auditing organisations that change a thousand times a day: g18a.com/insights.
+On governance built from within engineering, the DORA Register of Information as a data problem, and auditing organisations that change a thousand times a day: [g18a.com/insights](https://g18a.com/insights/).
